@@ -21,7 +21,7 @@ spl_autoload_register(function ($class_name) {
     }
 });
 
-require_once("../vendor/autoload.php");
+require_once("./vendor/autoload.php");
 
 
 
