@@ -2,7 +2,7 @@
 
 const BASE_DIR = "/home2/vijay/public_html/api/events/Event";
 
-require_once("../vendor/autoload.php");
+require_once(" /home2/vijay/public_html/api/rest" .  "/vendor/autoload.php");
 /**
  * This autoloader uses the include path to load classes.
  * It will work with underscore separated classes and namespaces.
